@@ -1,0 +1,9 @@
+{
+    "name": "Restify",
+    "description": "Restify Basic Authentication",
+    "version": "0.0.1",
+    "dependencies": {
+        "restify": "*",
+        "http-auth": "*"
+    }
+}
